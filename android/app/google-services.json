@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735881223013",
+    "firebase_url": "https://uber-ola-clone-f5125-default-rtdb.firebaseio.com",
+    "project_id": "uber-ola-clone-f5125",
+    "storage_bucket": "uber-ola-clone-f5125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735881223013:android:6086e8564860daca67df8c",
+        "android_client_info": {
+          "package_name": "com.pttc.section22casnp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735881223013-nnav0fvqhnmvv9nspisiid4f0i0k9j1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEdYWZs3EBOMdNnYLvF-lmA7JcJESm8ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735881223013-nnav0fvqhnmvv9nspisiid4f0i0k9j1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
